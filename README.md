@@ -1,6 +1,6 @@
 # FreshBasket
 🍉 FreshBasket – Fruits & Veggies Website
-This is a simple yet professional website built to practice and showcase frontend development skills. It highlights various fruits and vegetables with a clean layout and a smooth user experience.
+This is a simple yet professional website built to practice and showcase frontend development skills. It highlights various fruits and vegetables with a clean layout and a smooth user experience.<br>
 🔧 What I Built
 <ul>
 <li>A responsive landing page</li>
